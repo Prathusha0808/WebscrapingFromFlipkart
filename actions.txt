@@ -1,0 +1,33 @@
+2 --- media player	`
+closed palm	---- shutdown	`
+open palm or 5 ---- browser open	`
+1 ---- volume increase	`
+thumb --- volume decrease	`
+
+
+0 (5) -- 27 -- 63
+1 (1) -- 10 -- 56
+2 (2) -- 26 -- 63
+3 (thumb) -- 29 -- 52
+4 (closed fist) -- 6 -- 66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+say we have 42 inputs, create a keras model layer with 21 units such that each unit will get 2 inputs each
